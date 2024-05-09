@@ -62,10 +62,10 @@ if(isset($_POST['submit']))
     $mail->setFrom("contact@sibinfotech.com", "Digital Marketing Services Mumbai Landing Page");
     $mail->Body = $body_message;
     
-    $mail->AddAddress('contact@sibinfotech.com');
-    $mail->AddBcc('radhey@sibinfotech.com');
-    // $mail->AddAddress('sib.zaroon@gmail.com');
-    // $mail->AddAddress('sibinfotech101@gmail.com');
+    // $mail->AddAddress('contact@sibinfotech.com');
+    // $mail->AddBcc('radhey@sibinfotech.com');
+    $mail->AddAddress('sib.zaroon@gmail.com');
+    $mail->AddAddress('sibinfotech101@gmail.com');
     $mail->Subject = "New Inquiry from Digital Marketing Services Mumbai Landing Page";
     $mail->IsHTML(true);
    /* Finally send the mail. */
