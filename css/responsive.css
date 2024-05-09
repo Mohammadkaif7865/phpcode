@@ -1,0 +1,381 @@
+@media only screen and (max-width: 767px){
+    .containerFull{
+        padding:0 15px;
+    }
+    .header{
+        padding:10px 0;
+    }
+    .leftLogo{
+        width: 220px;
+    }
+    .sticky .leftLogo{
+      display: block;
+      width: 190px;
+    }
+    .sticky .leftBar{
+        display: none;
+    }
+    .sticky .inlineHeader, .bannerText, .minService, .servicesBlock, .leftGoogle, .mainAds, .leftContact, .leftTestimonial, .adsServices{
+        padding-left: 0px;
+    }
+    .bannerText{
+        margin-top: 2rem;
+    }
+    .large_heading{
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .small_heading{
+        font-size: 18px;
+    }
+    .bannerText{
+        height: auto;
+        text-align: center;
+        margin-bottom: 3rem;
+    }
+    .rightBannerForm{
+        padding: 0px;
+        margin-top: 0px;
+    }
+    .btnBanner{
+        font-size: 13px;
+        border-radius: 5px;
+    }
+    .bannerBlock{
+        height: auto;
+    }
+    section{
+        overflow:inherit;
+        padding:50px 0;
+    }
+    .sub_heading, .sub_heading2{
+        font-size: 24px;
+    }
+    .btnBanner{
+        margin-top: 20px;
+    }
+    .itemMinSer{
+        margin-top: 20px;
+    }
+    .rightBannerForm{
+        margin-bottom: 3rem;
+    }
+    .itemMinSer .small_heading{
+        font-size: 16px;
+    }
+    .heading{
+        font-size: 27px;
+        line-height: 34px;
+    }
+    .leftAbout p, .leftSer p{
+        text-align: justify;
+    }
+    .counterRight{
+        padding:20px;
+    }
+    .counterRight p{
+        font-size: 14px;
+    }
+    .leftSer{
+        width: 100%;
+    }
+    .rightService, .leftGoogle, .rightPost{
+        margin-top: 20px;
+    }
+    .themeBtnRed{
+        padding:10px 20px;
+    }
+    .leftElement:before, .rightElement:after{
+        left: 0px;
+        display: none;
+    }
+    .leftGoogle p, .rightPost p{
+        text-align: justify;
+    }
+    .rightContent p{
+        text-align:left;
+    }
+    .title{
+        font-size: 17px;
+    }
+    .rightBannerForm{
+        box-shadow: none !important;
+    }
+    .btnMenu{
+        background:none;
+        border:none;
+        font-size: 20px;
+    }
+    .mobileMenu.active {
+        left: 0;
+    }
+    .mobileMenu {
+        position: fixed;
+        top: 0;
+        background: #fff;
+        box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+        left: -100%;
+        width: 85%;
+        height: 100%;
+        overflow: auto;
+        z-index: 999;
+        padding: 20px;
+        transition: all .5s;
+    }
+    .mobileMenu li a {
+        padding: 8px 10px !important;
+        display: block !important;
+        color: #000;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .headerBtn{
+        font-size: 14px;
+        padding: 8px 14px;
+    }
+    .socialHeader{
+        margin-top: 2rem;
+    }
+    .socialHeader ul{
+        display: flex;
+        margin-top: 15px;
+    }
+    .socialHeader ul li a{
+        padding:5px;
+        font-size: 18px;
+        display: inline-block;
+    }
+    .footer{
+        margin-bottom: 2.5rem;
+    }
+    .testimonialItemHeader{
+        height: auto;
+    }
+    .inneritemTestimonial{
+        padding: 0px;
+        background: none;
+        box-shadow: none !important;
+        border: none !important;
+    }
+    .userIcon {
+        width: 50px;
+        height: 50px;
+        padding:10px;
+    }
+    .nameUser {
+        width: calc(100% - 65px);
+    }
+    .nameUser .title {
+        font-size: 15px;
+    }
+    .nameUser p, .reviewSource p {
+        font-size: 10px;
+    }
+    .itemTestimonial h3{
+        margin-bottom:20px; 
+    }
+    .slick-dotted.slick-slider{
+        margin-bottom: 0px;
+    }
+    .itemTestimonial p{
+        text-align: justify;
+    }
+    .itemService{
+        height: auto;
+    }
+    .logoSlider{
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 7vh;
+    }
+    .itemLogoBanner{
+        width: calc(100% / 3 - 10px);
+        height: 55px;
+    }
+    .btnBanner{
+        text-align: center;
+    }
+    .revenuBox{
+        display: none;
+    }
+    .headerBtn{
+        border-color:var(--primary-color);
+        color: var(--primary-color);
+    }
+    .headerBtn span{
+        background:var(--primary-color);
+        color: #fff;
+    }
+    .headerBtn:hover{
+        border-color: var(--secondary-color);
+        color:var(--secondary-color);
+    }
+    .headerBtn:hover span{
+        background: var(--secondary-color);
+    }
+    .textMobile{
+        text-align: center;
+    }
+    .bannerBottomText{
+        display: none;
+    }
+    .videoBlock video{
+        height: 85vh;
+    }
+    .headerPhone{
+        color: var(--secondary-color);
+    }
+    .testBlock{
+        width: 100%;
+        margin-left: 0px;
+        background:none;
+        overflow:hidden;
+        border:none;
+        box-shadow: none !important;
+        text-align: center;
+        padding:0px;
+    }
+    .itemRatio{
+        width: calc(100% / 2);
+    }
+    .itemRatio p{
+        font-size: 14px;
+    }
+    .numberLeads ul li{
+        width: 35px;
+        height: 35px;
+        font-size: 27px;
+    }
+    .numberLeads ul{
+        margin-top: 12px;
+    }
+    .testimonialSlider:before{
+        width: 35px;
+        top: 2px;
+        height: 35px;
+    }
+    .testimonialSlider{
+        padding-left: 34px;
+    }
+    .listBanner li{
+        font-size: 35px;
+    }
+    .listBanner:after{
+        width: 100%;
+    }
+    @keyframes translate{
+      0%{
+        transform: translateY(0);
+      }
+      50%{
+        transform: translateY(65px);
+        width: 100%;
+      }
+      100%{
+        transform: translateY(125px);
+        width: 100%;
+      }
+    }
+    .leftAbout{
+        padding:40px;
+    }
+    .rightAbout{
+        padding-left: 0px;
+        margin-top: 30px;
+    }
+    .centerImg{
+        margin-bottom: 30px;
+    }
+    .rightBannerForm{
+        background:transparent;
+    }
+    .bgWeb{
+        background: #f1f1f1;
+    }
+    .itemSidebar{
+        padding:20px 20px;
+        margin-bottom:0;
+    }
+    .mailText a{
+        font-size:16px;
+    }
+    .upperLayer{
+        margin-bottom:20px;
+    }
+    .leftMap img{
+        border-radius:0;
+        width:100%;
+        height:240px;
+        object-fit:cover;
+        object-position:top
+    }
+    .addressLeft{
+        border-radius:0px;
+    }
+    .rightMap{
+        margin-bottom:25px;
+        height:auto;
+    }
+    .rightMap iframe{
+        height:300px;
+        border-radius:0;
+    }
+    .googlePremierLogo{
+        position:inherit;
+        width:65px;
+        transform:translate(0);
+        top:7px;
+        left:50%;
+        transform:translateX(-50%);
+    }
+    .whatChat{
+        width:35px;
+        bottom:60px;
+    }
+    .seoMana{
+        border-top:none;
+        margin-top:0;
+        padding-top:15px;
+    }
+    .leftIconABout{
+        width:60px;
+        height:60px;
+    }
+    .rightContent{
+        width:calc(100% - 70px);
+    }
+    .itemLeftAbout{
+        grid-gap:20px;
+        padding-bottom:45px;
+        margin-bottom:45px;
+    }
+    .bodyTab{
+        display:none;
+    }
+    
+}
+
+
+@media (min-width: 768px) and (max-width: 990px) {
+
+}
+@media (min-width: 1024px){
+   
+}
+@media (min-width: 1280px){
+    .containerFull{
+        max-width: 1260px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 1600px){
+    .containerFull{
+        max-width: 1366px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 1200px){
+    .container{
+        max-width: 1080px;
+    }
+}
