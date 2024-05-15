@@ -79,7 +79,7 @@
       </div>
       <div class="modal-body pt-0">
         <div class="rightBannerForm p-0 mt-0">
-			<form method="post" action="https://sibinfotech.com/api/send-email">
+			<form method="post" action="https://www.sibinfotech.com/api/send-email">
 				<div class="formItem">
 					<div class="form-floating">
 					    <input type="hidden" required name="hidden"/>

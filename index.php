@@ -61,7 +61,7 @@
 						<div class="col-lg-4 d-none d-lg-block">
 							<div class="rightBannerForm">
 								<h3 class="sub_heading2 fontWeight700 fontHeading text-center">Ready to get more leads</h3>
-								<form method="post" action="https://sibinfotech.com/api/send-email">
+								<form method="post" action="https://www.sibinfotech.com/api/send-email">
 									<div class="row">
 										<div class="col-lg-6">
 			    							<div class="formItem">
@@ -141,7 +141,7 @@
 				<div class="col-lg-4">
 					<div class="rightBannerForm">
 						<h3 class="sub_heading2 fontWeight700 fontHeading text-center">Ready to get more leads</h3>
-						<form method="post" action="https://sibinfotech.com/api/send-email">
+						<form method="post" action="https://www.sibinfotech.com/api/send-email">
 							<div class="formItem">
 								<div class="form-floating">
 								    <input type="hidden" required name="hidden"/>
@@ -642,7 +642,7 @@
 					<div class="col-lg-5" data-aos="zoom-in-up">
 						<div class="rightBannerForm mb-0 mt-4 mt-lg-0 shadow">
 							<h3 class="sub_heading fontWeight700 fontHeading text-center">Ready to boost your leads?</h3>
-							<form method="post" action="https://sibinfotech.com/api/send-email">
+							<form method="post" action="https://www.sibinfotech.com/api/send-email">
     							<div class="formItem">
     								<div class="form-floating">
     								    <input type="hidden" required name="hidden"/>
