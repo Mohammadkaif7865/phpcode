@@ -221,7 +221,7 @@
 				</div>
 			</div>
 		</section>
-		<section>
+		<section id="about">
 			<div class="containerFull">
 				<div class="row">
 					<div class="col-lg-4">
